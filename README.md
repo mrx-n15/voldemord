@@ -1,2 +1,0 @@
-# voldemord
-bug app
